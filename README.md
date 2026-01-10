@@ -88,13 +88,13 @@ The frontend will be available at `http://localhost:5173`.
 - AI Credit Advisor chatbot
 
 ### 2. My Loans
-![My Loans](screenshots/my-loans.png)
+![My Loans](sql/screenshots/my-loans.png)
 - View all active loans with details
 - Track loan ID, type, amount, and outstanding balance
 - Real-time status updates
 
 ### 3. Apply for Loan
-![Apply for Loan](screenshots/apply-loan.png)
+![Apply for Loan](sql/screenshots/apply-loan.png)
 - AI-Powered Loan Eligibility Advisor
 - Personal & Employment information
 - Financial details with automatic calculations
@@ -103,7 +103,7 @@ The frontend will be available at `http://localhost:5173`.
 - Instant eligibility assessment
 
 ### 4. Loan Analysis Results
-![Loan Analysis](screenshots/loan-analysis.png)
+![Loan Analysis](sql/screenshots/loan-analysis.png)
 - Comprehensive approval decision (95% approval score)
 - Credit score range prediction (710-760)
 - Interest rate analysis (12.75%)
@@ -118,7 +118,7 @@ The frontend will be available at `http://localhost:5173`.
 - PDF report download & QR code sharing
 
 ### 5. Security & Profile Settings
-![Profile Settings](screenshots/profile-settings.png)
+![Profile Settings](sql/screenshots/profile-settings.png)
 - Complete account information
 - Customer ID: LA26253834
 - Email verification status
@@ -128,7 +128,7 @@ The frontend will be available at `http://localhost:5173`.
 - Account role information
 
 ### 6. Mobile QR Code Download
-![QR Code](screenshots/qr-code.png)
+![QR Code](sql/screenshots/qr-code.png)
 - Scan to download report on mobile
 - Secure & encrypted link
 - 24-hour expiration for security

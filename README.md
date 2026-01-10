@@ -80,7 +80,7 @@ The frontend will be available at `http://localhost:5173`.
 ## Screenshots
 
 ### 1. Dashboard - Financial Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](sql/screenshots/dashboard.png)
 - Real-time credit score monitoring (752/900)
 - Active loan tracking with outstanding balance
 - AI-powered loan eligibility predictions (₹8,00,000 pre-approved)
